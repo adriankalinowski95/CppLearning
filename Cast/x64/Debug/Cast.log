@@ -1,0 +1,8 @@
+﻿  Cast.cpp
+C:\cpp\Lessons\Cast\Cast.cpp(155,14): warning C4305: "=": obcięcie z "double" do "float"
+C:\cpp\Lessons\Cast\Cast.cpp(161,35): warning C4305: "inicjowanie": obcięcie z "__int64" do "long"
+C:\cpp\Lessons\Cast\Cast.cpp(161,21): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\cpp\Lessons\Cast\Cast.cpp(164,53): warning C4312: "reinterpret_cast": konwersja z "long" na "long *" jest większej wielkości
+C:\cpp\Lessons\Cast\Cast.cpp(173,63): warning C4311: "reinterpret_cast": obcięcie wskaźnika z "int *" do "long"
+C:\cpp\Lessons\Cast\Cast.cpp(173,63): warning C4302: "reinterpret_cast": obcięcie z "int *" do "long"
+  Cast.vcxproj -> C:\cpp\Lessons\x64\Debug\Cast.exe

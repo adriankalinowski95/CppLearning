@@ -1,0 +1,3 @@
+﻿  MoveAndOthers.cpp
+C:\cpp\Lessons\MoveAndOthers\MoveAndOthers.cpp(45): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej
+  MoveAndOthers.vcxproj -> C:\cpp\Lessons\x64\Debug\MoveAndOthers.exe
